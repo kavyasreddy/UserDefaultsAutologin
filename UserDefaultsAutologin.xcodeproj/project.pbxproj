@@ -17,6 +17,7 @@
 		56B15A912B0CA5EE00916B96 /* UserDefaultsAutologinTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56B15A902B0CA5EE00916B96 /* UserDefaultsAutologinTests.swift */; };
 		56B15A9B2B0CA5EE00916B96 /* UserDefaultsAutologinUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56B15A9A2B0CA5EE00916B96 /* UserDefaultsAutologinUITests.swift */; };
 		56B15A9D2B0CA5EE00916B96 /* UserDefaultsAutologinUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56B15A9C2B0CA5EE00916B96 /* UserDefaultsAutologinUITestsLaunchTests.swift */; };
+		56B15AAA2B0CA7FD00916B96 /* SaveUserDefalutsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56B15AA92B0CA7FD00916B96 /* SaveUserDefalutsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		56B15A962B0CA5EE00916B96 /* UserDefaultsAutologinUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UserDefaultsAutologinUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		56B15A9A2B0CA5EE00916B96 /* UserDefaultsAutologinUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDefaultsAutologinUITests.swift; sourceTree = "<group>"; };
 		56B15A9C2B0CA5EE00916B96 /* UserDefaultsAutologinUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDefaultsAutologinUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		56B15AA92B0CA7FD00916B96 /* SaveUserDefalutsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SaveUserDefalutsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				56B15A762B0CA5ED00916B96 /* AppDelegate.swift */,
 				56B15A782B0CA5ED00916B96 /* SceneDelegate.swift */,
 				56B15A7A2B0CA5ED00916B96 /* ViewController.swift */,
+				56B15AA92B0CA7FD00916B96 /* SaveUserDefalutsViewController.swift */,
 				56B15A7C2B0CA5ED00916B96 /* Main.storyboard */,
 				56B15A822B0CA5EE00916B96 /* Assets.xcassets */,
 				56B15A842B0CA5EE00916B96 /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				56B15A7B2B0CA5ED00916B96 /* ViewController.swift in Sources */,
+				56B15AAA2B0CA7FD00916B96 /* SaveUserDefalutsViewController.swift in Sources */,
 				56B15A772B0CA5ED00916B96 /* AppDelegate.swift in Sources */,
 				56B15A792B0CA5ED00916B96 /* SceneDelegate.swift in Sources */,
 				56B15A812B0CA5ED00916B96 /* UserDefaultsAutologin.xcdatamodeld in Sources */,
